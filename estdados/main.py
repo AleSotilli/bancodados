@@ -67,8 +67,6 @@ def main():
             # Verifica se a fila está vazia
             if fila:
                 # Remove o paciente de maior prioridade
-
-                paciente_atendidos.append(pacientes_atendido)
                 paciente_atendido = remover_paciente(fila)
 
                 print(f"Paciente atendido: {paciente_atendido.nome}")
