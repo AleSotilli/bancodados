@@ -1,0 +1,13 @@
+
+
+
+Rodar os testes: 
+python -m unittest -v test.py
+
+Rodar o jogo:
+
+python main.py 
+
+
+pip install names
+para poder usar a lib de names
